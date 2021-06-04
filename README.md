@@ -25,3 +25,24 @@ Mengakses directory folder tersebut pada web server
 Membuat file koneksi database , buat file baru dengan nama koneksi.php dan apabila sukses maka hasilnya akan seperti ini
 
 ![5](https://user-images.githubusercontent.com/81844622/120825324-79377f80-c583-11eb-9469-d5bbea1949c5.jpg)
+
+# Langkah 7
+Membuat file baru index dan menampilkan data dari database
+
+![6](https://user-images.githubusercontent.com/81844622/120825547-b3088600-c583-11eb-8bc8-c61e16b52c88.jpg)
+
+# Langkah 8
+Menambahkan data barang untuk database 
+
+![7](https://user-images.githubusercontent.com/81844622/120825838-fd8a0280-c583-11eb-9291-2048d350dfba.jpg)
+
+# Langkah 9
+Menambahkan file baru untuk mengubah data
+
+![8](https://user-images.githubusercontent.com/81844622/120826005-2e6a3780-c584-11eb-930a-7ed86243d9a1.jpg)
+
+# Langkah 10
+Menambah file baru untuk menghapus data
+
+![9](https://user-images.githubusercontent.com/81844622/120826127-4e99f680-c584-11eb-99ab-6802b8b488f5.jpg)
+
